@@ -1,0 +1,22 @@
+.serviceform{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    /* margin: auto; */
+    align-items: stretch;
+}
+.input{
+    justify-content: space-around;
+    width: 20%;
+}
+.field{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 1rem;
+}
+.button{
+    margin: 1rem;
+    background-color: rgb(42, 42, 128);
+    color: white;
+}

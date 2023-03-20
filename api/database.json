@@ -1,0 +1,41 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "plumber joe",
+      "price": "10"
+    },
+    {
+      "id": 2,
+      "name": "plumber Caroline",
+      "price": "80"
+    },
+    {
+      "id": 3,
+      "name": "plumber Josh",
+      "price": "100"
+    },
+    {
+      "id": 4,
+      "name": "plumber Jeremy",
+      "price": "75"
+    }
+  ],
+  "completions": [],
+  "requests": [
+    {
+      "description": "hello",
+      "address": "goodbye",
+      "budget": "3000000",
+      "neededBy": "2023-03-23",
+      "id": 2
+    },
+    {
+      "description": "t",
+      "address": "y",
+      "budget": "0",
+      "neededBy": "2023-03-22",
+      "id": 3
+    }
+  ]
+}
